@@ -8,10 +8,11 @@
 
 body{
     text-align: center;
+    background: linear-gradient(to bottom, #4eacfa, #fff);
+    min-height: 100vh;
 }
 
 main{
-    background-color: purple;
     display: inline-block;
     margin-top: 2%;
 }
